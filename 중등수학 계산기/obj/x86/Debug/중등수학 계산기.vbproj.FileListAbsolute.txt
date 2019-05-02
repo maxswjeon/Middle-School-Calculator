@@ -1,0 +1,23 @@
+C:\Users\dell\AppData\Local\Temporary Projects\중등수학 계산기\bin\Debug\중등수학 계산기.exe
+C:\Users\dell\AppData\Local\Temporary Projects\중등수학 계산기\bin\Debug\중등수학 계산기.pdb
+C:\Users\dell\AppData\Local\Temporary Projects\중등수학 계산기\bin\Debug\중등수학 계산기.xml
+C:\Users\dell\AppData\Local\Temporary Projects\중등수학 계산기\obj\x86\Debug\중등수학_계산기.Form1.resources
+C:\Users\dell\AppData\Local\Temporary Projects\중등수학 계산기\obj\x86\Debug\중등수학_계산기.Resources.resources
+C:\Users\dell\AppData\Local\Temporary Projects\중등수학 계산기\obj\x86\Debug\중등수학 계산기.vbproj.GenerateResource.Cache
+C:\Users\dell\AppData\Local\Temporary Projects\중등수학 계산기\obj\x86\Debug\중등수학 계산기.exe
+C:\Users\dell\AppData\Local\Temporary Projects\중등수학 계산기\obj\x86\Debug\중등수학 계산기.xml
+C:\Users\dell\AppData\Local\Temporary Projects\중등수학 계산기\obj\x86\Debug\중등수학 계산기.pdb
+C:\Users\dell\documents\visual studio 2010\Projects\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등수학 계산기.exe
+C:\Users\dell\documents\visual studio 2010\Projects\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등수학 계산기.xml
+C:\Users\dell\documents\visual studio 2010\Projects\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등수학 계산기.pdb
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등수학 계산기.exe
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등수학 계산기.xml
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등수학 계산기.pdb
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\bin\Debug\중등수학 계산기.exe
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\bin\Debug\중등수학 계산기.pdb
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\bin\Debug\중등수학 계산기.xml
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등수학_계산기.Form1.resources
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등수학_계산기.Resources.resources
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등수학 계산기.vbproj.GenerateResource.Cache
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등수학_계산기.SplashScreen1.resources
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등수학_계산기.AboutBox1.resources

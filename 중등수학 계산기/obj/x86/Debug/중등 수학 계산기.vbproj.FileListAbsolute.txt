@@ -1,0 +1,31 @@
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\bin\Debug\중등 수학 계산기.exe
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\bin\Debug\중등 수학 계산기.pdb
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\bin\Debug\중등 수학 계산기.xml
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등_수학_계산기.AboutBox1.resources
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등_수학_계산기.Form1.resources
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등_수학_계산기.Resources.resources
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등_수학_계산기.SplashScreen1.resources
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등 수학 계산기.vbproj.GenerateResource.Cache
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등 수학 계산기.exe
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등 수학 계산기.xml
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등 수학 계산기.pdb
+C:\Users\dell\Desktop\프로그램 바로가기\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등_수학_계산기.logs.resources
+D:\상완\컴퓨터\프로그래밍\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등 수학 계산기.exe
+D:\상완\컴퓨터\프로그래밍\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등 수학 계산기.xml
+D:\상완\컴퓨터\프로그래밍\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등 수학 계산기.pdb
+D:\상완\컴퓨터\프로그래밍\visual basic\중등수학 계산기\중등수학 계산기\bin\Debug\중등 수학 계산기.exe
+D:\상완\컴퓨터\프로그래밍\visual basic\중등수학 계산기\중등수학 계산기\bin\Debug\중등 수학 계산기.pdb
+D:\상완\컴퓨터\프로그래밍\visual basic\중등수학 계산기\중등수학 계산기\bin\Debug\중등 수학 계산기.xml
+D:\상완\컴퓨터\프로그래밍\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등_수학_계산기.AboutBox1.resources
+D:\상완\컴퓨터\프로그래밍\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등_수학_계산기.Form1.resources
+D:\상완\컴퓨터\프로그래밍\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등_수학_계산기.logs.resources
+D:\상완\컴퓨터\프로그래밍\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등_수학_계산기.Resources.resources
+D:\상완\컴퓨터\프로그래밍\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등_수학_계산기.SplashScreen1.resources
+D:\상완\컴퓨터\프로그래밍\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등 수학 계산기.vbproj.GenerateResource.Cache
+D:\상완\컴퓨터\프로그래밍\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등 수학 계산기.vbprojResolveAssemblyReference.cache
+E:\archive\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등 수학 계산기.exe
+E:\archive\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등 수학 계산기.xml
+E:\archive\visual basic\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등 수학 계산기.pdb
+C:\Users\maxsw\Desktop\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등 수학 계산기.exe
+C:\Users\maxsw\Desktop\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등 수학 계산기.xml
+C:\Users\maxsw\Desktop\중등수학 계산기\중등수학 계산기\obj\x86\Debug\중등 수학 계산기.pdb
